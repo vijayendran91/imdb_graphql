@@ -50,3 +50,5 @@ end
 
 
 gem "graphql", "~> 2.1"
+gem 'graphql-pagination'
+gem 'kaminari-activerecord'
